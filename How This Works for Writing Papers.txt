@@ -1,0 +1,6 @@
+This is a Github Repository for writing the first Series 4 paper of the Open Source Malaria Consortium.
+
+If you are a Github user and want to contribute, please say so and we can add you to the contributing team.
+
+If you’re not a regular Github user (you don’t have the client installed on your machine) then no problem. Send the files you want to add (new files, datasets, Word files with tracked changes, anything) to opensourcemalaria@gmail.com and they’ll be incorporated by an OSM participant with read/write access.
+
