@@ -1,4 +1,4 @@
-This repository is for the writing of the first paper about Series 4 of the Open Source Malaria Consortium. 
+This repository is for the writing of the first paper about Series 4 of the Open Source Malaria Consortium (http://opensourcemalaria.org/). 
 
 The paper will be assembled at http://tinyurl.com/OSM-S4-Paper1. Google Docs' commenting functionality is a little better than Github's for writing papers.
 
