@@ -3,7 +3,7 @@
 <CDXML
  CreationProgram="ChemDraw 19.0.1.32"
  Name="2021 Figure 1 Structures.cdxml"
- BoundingBox="87.12 218.39 418.75 386.46"
+ BoundingBox="87.12 218.39 418.74 386.46"
  WindowPosition="0 0"
  WindowSize="0 0"
  FractionalWidths="yes"
@@ -88,7 +88,7 @@
 <font id="58" charset="x-mac-roman" name="Arial Italic"/>
 <font id="59" charset="x-mac-roman" name="Arial Bold"/>
 </fonttable><page
- id="4633"
+ id="4638"
  BoundingBox="0 0 1046.40 1539.60"
  HeaderPosition="36"
  FooterPosition="36"
@@ -298,7 +298,7 @@
  AS="N"
 ><t
  p="210.98 259.13"
- BoundingBox="211.57 250.39 221.46 259.27"
+ BoundingBox="211.57 250.39 221.47 259.27"
  LabelJustification="Left"
  LabelAlignment="Left"
 ><s font="57" size="12" color="0" face="96">Cl</s></t></n><b
@@ -519,8 +519,8 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="335.28 345.97"
- BoundingBox="336.20 337.39 342.96 345.97"
+ p="335.29 345.97"
+ BoundingBox="336.20 337.39 342.97 345.97"
  LabelJustification="Left"
  LabelAlignment="Right"
 ><s font="57" size="12" color="0" face="96">N</s></t></n><n
@@ -542,8 +542,8 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="364.72 328.97"
- BoundingBox="365.64 320.39 372.40 328.97"
+ p="364.73 328.97"
+ BoundingBox="365.64 320.39 372.41 328.97"
  LabelJustification="Left"
 ><s font="57" size="12" color="0" face="96">N</s></t></n><n
  id="4506"
@@ -559,8 +559,8 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="380.89 351.22"
- BoundingBox="381.81 342.64 388.57 351.22"
+ p="380.90 351.22"
+ BoundingBox="381.81 342.64 388.58 351.22"
  LabelJustification="Left"
 ><s font="57" size="12" color="0" face="96">N</s></t></n><n
  id="4508"
@@ -571,8 +571,8 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="390.88 337.47"
- BoundingBox="391.80 328.89 398.56 337.47"
+ p="390.89 337.47"
+ BoundingBox="391.80 328.89 398.57 337.47"
  LabelJustification="Left"
 ><s font="57" size="12" color="0" face="96">N</s></t></n><n
  id="4509"
@@ -589,7 +589,7 @@
  AS="N"
 ><t
  p="349.67 303.55"
- BoundingBox="350.25 294.81 358.46 303.70"
+ BoundingBox="350.25 294.81 358.47 303.70"
  LabelJustification="Left"
 ><s font="57" size="12" color="0" face="96">O</s></t></n><n
  id="4511"
@@ -639,8 +639,8 @@
  PositioningOffset="137.33 826.23"
  Name="stereo"
 ><t
- p="266.61 953.18"
- BoundingBox="267.37 946.63 278.59 955.07"
+ p="323.36 280.61"
+ BoundingBox="324.12 274.06 335.34 282.50"
  Visible="no"
  CaptionLineHeight="variable"
 ><s font="58" size="9" color="0" face="2">(R)</s></t></objecttag></n><n
@@ -705,7 +705,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="4634"
+ id="4639"
 ><n
  id="3203"
  p="406.24 254.76"
@@ -718,8 +718,8 @@
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="407.16 242.88"
- BoundingBox="408.08 234.30 414.84 242.88"
+ p="407.17 242.88"
+ BoundingBox="408.08 234.30 414.85 242.88"
  LabelJustification="Left"
 ><s font="57" size="12" color="0" face="96">N</s></t></n><n
  id="3205"
@@ -739,7 +739,7 @@
  E="3204"
  Order="3"
 /></fragment><t
- p="401.90 259.13"
+ p="401.91 259.13"
  BoundingBox="402.50 250.39 418.25 259.27"
  LabelJustification="Left"
  LabelAlignment="Left"
@@ -753,7 +753,7 @@
  AS="N"
 ><t
  p="349.67 269.55"
- BoundingBox="350.25 260.81 358.46 269.70"
+ BoundingBox="350.25 260.81 358.47 269.70"
  LabelJustification="Left"
  LabelAlignment="Above"
 ><s font="57" size="12" color="0" face="96">O</s></t></n><n
@@ -977,7 +977,7 @@
 /></fragment><t
  id="3830"
  p="179.18 370.01"
- BoundingBox="132.88 361.27 225.09 386.46"
+ BoundingBox="132.88 361.27 225.08 386.46"
  Z="187"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
@@ -989,7 +989,7 @@
 </s><s font="58" size="12" color="0" face="2">Pf</s><s font="57" size="12" color="0"> IC</s><s font="57" size="12" color="0" face="32">50</s><s font="57" size="12" color="0">: 0.091 </s><s font="23" size="12" color="0">m</s><s font="57" size="12" color="0">M</s></t><t
  id="2963"
  p="372.84 370.01"
- BoundingBox="326.55 361.27 418.75 386.32"
+ BoundingBox="326.54 361.27 418.74 386.46"
  Z="228"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
@@ -998,4 +998,4 @@
  WordWrapWidth="146"
  LineStarts="10 28"
 ><s font="59" size="12" color="0" face="1">MMV669844
-</s><s font="58" size="12" color="0" face="2">Pf</s><s font="57" size="12" color="0"> IC</s><s font="57" size="9" color="0">50</s><s font="57" size="12" color="0">: 0.040 </s><s font="23" size="12" color="0">m</s><s font="57" size="12" color="0">M</s></t></page></CDXML>
+</s><s font="58" size="12" color="0" face="2">Pf</s><s font="57" size="12" color="0"> IC</s><s font="57" size="12" color="0" face="32">50</s><s font="57" size="12" color="0">: 0.040 </s><s font="23" size="12" color="0">m</s><s font="57" size="12" color="0">M</s></t></page></CDXML>
