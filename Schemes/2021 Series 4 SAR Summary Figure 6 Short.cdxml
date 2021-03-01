@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
 <CDXML
- CreationProgram="ChemDraw 19.0.1.32"
+ CreationProgram="ChemDraw 19.0.0.22"
  Name="2021 Series 4 SAR Summary Figure 6 Short.cdxml"
- BoundingBox="114.17 100.38 633.67 435.54"
+ BoundingBox="113.73 100.38 633.67 437.22"
  WindowPosition="0 0"
- WindowSize="0 0"
+ WindowSize="1073741824 1073741824"
+ WindowIsZoomed="yes"
  FractionalWidths="yes"
  InterpretChemically="yes"
  ShowAtomQuery="yes"
@@ -19,11 +20,11 @@
  ShowTerminalCarbonLabels="no"
  ShowNonTerminalCarbonLabels="no"
  HideImplicitHydrogens="no"
- Magnification="500"
- LabelFont="57"
+ Magnification="666"
+ LabelFont="3"
  LabelSize="10"
  LabelFace="96"
- CaptionFont="57"
+ CaptionFont="3"
  CaptionSize="10"
  HashSpacing="2.50"
  MarginWidth="1.60"
@@ -43,7 +44,7 @@
  ResidueZigZag="yes"
  NumberResidueBlocks="no"
  PrintMargins="36 36 36 36"
- MacPrintInfo="00030000004800480000000002520306FFF7FFF7025B030F0365052803FC00020000004800480000000002520306000100000064000000010001010100000001270F000100010000000000000000000000000002001901900000000000400000000000000000000100000000000000000000000000000000"
+ MacPrintInfo="00030000004800480000000002520306FFF7FFF7025B030F0365052803FC00020000004800480000000002520306000100000064000000010001010100000001270F000100010000000000000000000000000002001901900000000000600000000000000000000100000000000000000000000000000000"
  ChemPropName=""
  ChemPropFormula="Chemical Formula: "
  ChemPropExactMass="Exact Mass: "
@@ -61,6 +62,10 @@
  ChemPropHenry="Henry&apos;s Law: "
  ChemPropEForm="Heat of Form: "
  ChemProptPSA="tPSA: "
+ ChemPropCLogP="CLogP: "
+ ChemPropCMR="CMR: "
+ ChemPropLogS="LogS: "
+ ChemPropPKa="pKa: "
  ChemPropID=""
  ChemPropFragmentLabel=""
  color="0"
@@ -81,10 +86,10 @@
 <color r="0.0510" g="0.5020" b="0"/>
 <color r="0.9922" g="0.5020" b="0.0314"/>
 </colortable><fonttable>
-<font id="57" charset="x-mac-roman" name="Arial"/>
-<font id="59" charset="x-mac-roman" name="Arial Bold"/>
+<font id="3" charset="iso-8859-1" name="Arial"/>
+<font id="5" charset="iso-8859-1" name="Arial"/>
 </fonttable><page
- id="13911"
+ id="13916"
  BoundingBox="0 0 720 540"
  HeaderPosition="36"
  FooterPosition="36"
@@ -98,17 +103,17 @@
 ><t
  id="12359"
  p="531.91 118.39"
- BoundingBox="491.30 111.09 573.63 155.42"
+ BoundingBox="490.14 109.29 573.68 155.89"
  Z="367"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="8 23 42 56"
-><s font="57" size="10.15" color="0" face="4">Potency</s><s font="57" size="10.15" color="0">
-</s><s font="57" size="10.15" color="10">&lt;1 µM = green</s><s font="57" size="10.15" color="0">
-</s><s font="57" size="10.15" color="11">1-2.5 µM = orange</s><s font="57" size="10.15" color="0">
-</s><s font="57" size="10.15" color="4">&gt;2.5 µM = red</s></t><graphic
+><s font="3" size="10.15" color="0" face="4">Potency</s><s font="3" size="10.15" color="0">
+</s><s font="3" size="10.15" color="10">&lt;1 µM = green</s><s font="3" size="10.15" color="0">
+</s><s font="3" size="10.15" color="11">1-2.5 µM = orange</s><s font="3" size="10.15" color="0">
+</s><s font="3" size="10.15" color="4">&gt;2.5 µM = red</s></t><graphic
  id="12575"
  BoundingBox="577.49 164.05 484.89 105.77"
  Z="368"
@@ -120,11 +125,11 @@
  MinorAxisEnd3D="531.19 164.05 0"
 /></group><group
  id="12667"
- BoundingBox="328.80 106.97 443.85 183.35"
+ BoundingBox="327.98 106.11 444.25 183.69"
  Z="411"
 ><fragment
  id="12668"
- BoundingBox="328.80 106.97 443.85 183.35"
+ BoundingBox="327.98 106.11 444.25 183.69"
  Z="389"
 ><n
  id="12669"
@@ -140,10 +145,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="389.79 178.90"
- BoundingBox="390.55 171.78 396.16 178.90"
+ p="389.78 179.24"
+ BoundingBox="389.78 170.96 396.98 179.24"
  LabelJustification="Left"
-><s font="57" size="9.95" color="0" face="96">N</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">N</s></t></n><n
  id="12671"
  p="405.85 182.54"
  Z="390"
@@ -162,10 +167,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="414.73 164.50"
- BoundingBox="415.49 157.38 421.10 164.50"
+ p="414.72 164.84"
+ BoundingBox="414.72 156.56 421.92 164.84"
  LabelJustification="Left"
-><s font="57" size="9.95" color="0" face="96">N</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">N</s></t></n><n
  id="12674"
  p="405.85 153.74"
  Z="393"
@@ -179,10 +184,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="428.42 183.35"
- BoundingBox="429.18 176.23 434.79 183.35"
+ p="428.41 183.69"
+ BoundingBox="428.41 175.41 435.61 183.69"
  LabelJustification="Left"
-><s font="57" size="9.95" color="0" face="96">N</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">N</s></t></n><n
  id="12676"
  p="440.47 168.14"
  Z="401"
@@ -191,10 +196,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="436.88 171.70"
- BoundingBox="437.64 164.58 443.25 171.70"
+ p="436.87 172.04"
+ BoundingBox="436.87 163.76 444.07 172.04"
  LabelJustification="Left"
-><s font="57" size="9.95" color="0" face="96">N</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">N</s></t></n><n
  id="12677"
  p="432.01 156.50"
  Z="402"
@@ -208,10 +213,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="401.98 142.96"
- BoundingBox="402.46 135.72 409.27 143.09"
+ p="401.97 143.24"
+ BoundingBox="401.97 134.84 409.72 143.34"
  LabelJustification="Left"
-><s font="57" size="9.95" color="0" face="96">O</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">O</s></t></n><n
  id="12685"
  p="393.38 132.15"
  Z="409"
@@ -260,10 +265,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="327.98 114.13"
- BoundingBox="328.80 106.97 333.63 114.13"
+ p="327.98 114.45"
+ BoundingBox="327.98 106.11 334.09 114.45"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">F</s></t></n><n
+><s font="3" size="10" color="0" face="96">F</s></t></n><n
  id="12694"
  p="331.03 139.35"
  Z="429"
@@ -272,10 +277,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="327.98 142.93"
- BoundingBox="328.80 135.77 333.63 142.93"
+ p="327.98 143.25"
+ BoundingBox="327.98 134.91 334.09 143.25"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">F</s></t></n><n
+><s font="3" size="10" color="0" face="96">F</s></t></n><n
  id="12729"
  p="436.46 142.81"
  Z="431"
@@ -285,11 +290,11 @@
  AS="N"
  GenericNickname="R"
 ><t
- p="432.85 146.39"
- BoundingBox="433.64 139.23 443.85 148.51"
+ p="432.86 146.71"
+ BoundingBox="432.86 138.37 444.25 148.91"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="57" size="10" color="0" face="96">R2</s></t></n><b
+><s font="3" size="10" color="0" face="96">R2</s></t></n><b
  id="12695"
  Z="394"
  B="12669"
@@ -443,11 +448,11 @@
  BS="N"
 /></fragment></group><group
  id="12733"
- BoundingBox="328.45 200.95 380.15 254.93"
+ BoundingBox="328.45 200.95 380.96 254.93"
  Z="434"
 ><fragment
  id="12734"
- BoundingBox="328.45 200.95 380.15 254.93"
+ BoundingBox="328.45 200.95 380.96 254.93"
  Z="433"
 ><n
  id="12755"
@@ -488,11 +493,11 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="366.51 222.19"
- BoundingBox="367.27 215.03 380.15 222.19"
+ p="366.52 222.51"
+ BoundingBox="366.52 214.17 380.96 222.51"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="57" size="10" color="0" face="96">NH</s></t></n><n
+><s font="3" size="10" color="0" face="96">NH</s></t></n><n
  id="12797"
  p="368.62 204.29"
  Z="448"
@@ -584,11 +589,11 @@
  BS="N"
 /></fragment></group><group
  id="12838"
- BoundingBox="446.79 213.43 499.73 254.93"
+ BoundingBox="446.79 213.43 500.54 254.93"
  Z="458"
 ><fragment
  id="12839"
- BoundingBox="446.79 213.43 499.73 254.93"
+ BoundingBox="446.79 213.43 500.54 254.93"
  Z="457"
 ><n
  id="12840"
@@ -644,11 +649,11 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="486.09 228.04"
- BoundingBox="486.85 220.88 499.73 228.04"
+ p="486.10 228.36"
+ BoundingBox="486.10 220.02 500.54 228.36"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="57" size="10" color="0" face="96">NH</s></t></n><b
+><s font="3" size="10" color="0" face="96">NH</s></t></n><b
  id="12850"
  Z="465"
  B="12840"
@@ -770,11 +775,11 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="597.93 222.19"
- BoundingBox="598.69 215.03 604.33 222.19"
+ p="597.94 222.51"
+ BoundingBox="597.94 214.17 605.16 222.51"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="57" size="10" color="0" face="96">N</s></t></n><n
+><s font="3" size="10" color="0" face="96">N</s></t></n><n
  id="12881"
  p="600.03 204.29"
  Z="496"
@@ -877,11 +882,11 @@
  BS="N"
 /></fragment></group><group
  id="12898"
- BoundingBox="441.04 278.89 492.74 333.11"
+ BoundingBox="441.04 278.03 493.55 333.11"
  Z="508"
 ><fragment
  id="12899"
- BoundingBox="441.04 278.89 492.74 333.11"
+ BoundingBox="441.04 278.03 493.55 333.11"
  Z="507"
 ><n
  id="12900"
@@ -922,11 +927,11 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="479.10 300.37"
- BoundingBox="479.86 293.21 492.74 300.37"
+ p="479.11 300.69"
+ BoundingBox="479.11 292.35 493.55 300.69"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="57" size="10" color="0" face="96">NH</s></t></n><n
+><s font="3" size="10" color="0" face="96">NH</s></t></n><n
  id="12907"
  p="481.21 282.47"
  Z="522"
@@ -935,10 +940,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="477.60 286.05"
- BoundingBox="478.36 278.89 484 286.05"
+ p="477.61 286.37"
+ BoundingBox="477.61 278.03 484.83 286.37"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">N</s></t></n><n
+><s font="3" size="10" color="0" face="96">N</s></t></n><n
  id="12908"
  p="467.12 279.47"
  Z="523"
@@ -1075,10 +1080,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="357.51 326.94"
- BoundingBox="357.99 319.66 364.84 327.06"
+ p="357.50 327.20"
+ BoundingBox="357.50 318.74 365.30 327.30"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">O</s></t></n><n
+><s font="3" size="10" color="0" face="96">O</s></t></n><n
  id="12932"
  p="373.05 314.83"
  Z="549"
@@ -1092,10 +1097,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="364.71 304.78"
- BoundingBox="365.19 297.50 372.04 304.90"
+ p="364.70 305.04"
+ BoundingBox="364.70 296.58 372.50 305.14"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">O</s></t></n><b
+><s font="3" size="10" color="0" face="96">O</s></t></n><b
  id="12934"
  Z="539"
  B="12924"
@@ -1185,10 +1190,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="346.77 404.50"
- BoundingBox="347.53 397.34 353.17 404.50"
+ p="346.78 404.82"
+ BoundingBox="346.78 396.48 354 404.82"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">N</s></t></n><n
+><s font="3" size="10" color="0" face="96">N</s></t></n><n
  id="13018"
  p="345.93 414.61"
  Z="558"
@@ -1263,11 +1268,11 @@
  BS="N"
 /></fragment></group><group
  id="13046"
- BoundingBox="567.69 369.89 596.54 414.70"
+ BoundingBox="567.69 368.97 596.54 414.70"
  Z="573"
 ><fragment
  id="13047"
- BoundingBox="567.69 369.89 596.54 414.70"
+ BoundingBox="567.69 368.97 596.54 414.70"
  Z="572"
 ><n
  id="13048"
@@ -1278,10 +1283,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="574.06 404.50"
- BoundingBox="574.82 397.34 580.46 404.50"
+ p="574.07 404.82"
+ BoundingBox="574.07 396.48 581.29 404.82"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">N</s></t></n><n
+><s font="3" size="10" color="0" face="96">N</s></t></n><n
  id="13049"
  p="573.21 414.61"
  Z="575"
@@ -1305,10 +1310,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="582.68 377.17"
- BoundingBox="583.16 369.89 590.01 377.29"
+ p="582.67 377.43"
+ BoundingBox="582.67 368.97 590.47 377.53"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">O</s></t></n><n
+><s font="3" size="10" color="0" face="96">O</s></t></n><n
  id="13053"
  p="572.48 376.52"
  Z="581"
@@ -1363,11 +1368,11 @@
  BS="N"
 /></fragment></group><group
  id="13063"
- BoundingBox="447.27 356.04 481.22 414.70"
+ BoundingBox="447.27 355.18 481.68 414.70"
  Z="590"
 ><fragment
  id="13064"
- BoundingBox="447.27 356.04 481.22 414.70"
+ BoundingBox="447.27 355.18 481.68 414.70"
  Z="589"
 ><n
  id="13065"
@@ -1378,10 +1383,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="453.64 404.50"
- BoundingBox="454.40 397.34 460.04 404.50"
+ p="453.65 404.82"
+ BoundingBox="453.65 396.48 460.87 404.82"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">N</s></t></n><n
+><s font="3" size="10" color="0" face="96">N</s></t></n><n
  id="13066"
  p="452.79 414.61"
  Z="592"
@@ -1420,10 +1425,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="459.37 363.20"
- BoundingBox="460.19 356.04 465.02 363.20"
+ p="459.37 363.52"
+ BoundingBox="459.37 355.18 465.48 363.52"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">F</s></t></n><n
+><s font="3" size="10" color="0" face="96">F</s></t></n><n
  id="13082"
  p="478.62 366.33"
  Z="608"
@@ -1432,10 +1437,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="475.57 369.91"
- BoundingBox="476.39 362.75 481.22 369.91"
+ p="475.57 370.23"
+ BoundingBox="475.57 361.89 481.68 370.23"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">F</s></t></n><b
+><s font="3" size="10" color="0" face="96">F</s></t></n><b
  id="13072"
  Z="593"
  B="13065"
@@ -1492,15 +1497,15 @@
  BS="N"
 /></fragment></group><group
  id="13103"
- BoundingBox="123.30 100.38 252.70 184.35"
+ BoundingBox="122.48 100.38 252.91 184.69"
  Z="610"
 ><group
  id="258"
- BoundingBox="123.30 107.97 249.83 184.35"
+ BoundingBox="122.48 107.11 249.83 184.69"
  Z="358"
 ><fragment
  id="259"
- BoundingBox="123.30 107.97 249.83 184.35"
+ BoundingBox="122.48 107.11 249.83 184.69"
  Z="323"
 ><n
  id="260"
@@ -1516,10 +1521,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="184.29 179.90"
- BoundingBox="185.05 172.78 190.66 179.90"
+ p="184.28 180.24"
+ BoundingBox="184.28 171.96 191.48 180.24"
  LabelJustification="Left"
-><s font="57" size="9.95" color="0" face="96">N</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">N</s></t></n><n
  id="262"
  p="200.35 183.54"
  Z="324"
@@ -1538,10 +1543,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="209.23 165.50"
- BoundingBox="209.99 158.38 215.60 165.50"
+ p="209.22 165.84"
+ BoundingBox="209.22 157.56 216.42 165.84"
  LabelJustification="Left"
-><s font="57" size="9.95" color="0" face="96">N</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">N</s></t></n><n
  id="265"
  p="200.35 154.74"
  Z="327"
@@ -1555,10 +1560,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="222.92 184.35"
- BoundingBox="223.68 177.23 229.29 184.35"
+ p="222.91 184.69"
+ BoundingBox="222.91 176.41 230.11 184.69"
  LabelJustification="Left"
-><s font="57" size="9.95" color="0" face="96">N</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">N</s></t></n><n
  id="267"
  p="234.97 169.14"
  Z="335"
@@ -1567,10 +1572,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="231.38 172.70"
- BoundingBox="232.14 165.58 237.75 172.70"
+ p="231.37 173.04"
+ BoundingBox="231.37 164.76 238.57 173.04"
  LabelJustification="Left"
-><s font="57" size="9.95" color="0" face="96">N</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">N</s></t></n><n
  id="268"
  p="226.51 157.50"
  Z="336"
@@ -1589,10 +1594,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="196.48 143.96"
- BoundingBox="196.96 136.72 203.77 144.09"
+ p="196.47 144.24"
+ BoundingBox="196.47 135.84 204.22 144.34"
  LabelJustification="Left"
-><s font="57" size="9.95" color="0" face="96">O</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">O</s></t></n><n
  id="271"
  p="245.04 140.80"
  Z="345"
@@ -1666,10 +1671,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="122.48 115.13"
- BoundingBox="123.30 107.97 128.13 115.13"
+ p="122.48 115.45"
+ BoundingBox="122.48 107.11 128.59 115.45"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">F</s></t></n><n
+><s font="3" size="10" color="0" face="96">F</s></t></n><n
  id="12664"
  p="125.53 140.35"
  Z="385"
@@ -1678,10 +1683,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="122.48 143.93"
- BoundingBox="123.30 136.77 128.13 143.93"
+ p="122.48 144.25"
+ BoundingBox="122.48 135.91 128.59 144.25"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">F</s></t></n><b
+><s font="3" size="10" color="0" face="96">F</s></t></n><b
  id="291"
  Z="328"
  B="260"
@@ -1878,7 +1883,7 @@
  BS="N"
 /></fragment></group><fragment
  id="399"
- BoundingBox="227.10 103.19 236.28 122.73"
+ BoundingBox="227.70 102.37 239.06 122.73"
  Z="363"
 ><n
  id="398"
@@ -1890,16 +1895,15 @@
  AS="N"
  GenericNickname="R"
 ><t
- p="237.65 110.31"
- BoundingBox="227.10 103.19 236.28 112.42"
+ p="239.06 110.65"
+ BoundingBox="227.70 102.37 239.06 112.80"
  LabelJustification="Right"
  Justification="Right"
  LabelAlignment="Right"
-><s font="57" size="9.95" color="0" face="96">R1</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">R1</s></t></n><n
  id="400"
  p="233.63 122.66"
  Z="364"
- Warning="This atom is very close to another atom or bond."
  AS="N"
 /><b
  id="401"
@@ -1920,7 +1924,7 @@
  MinorAxisEnd3D="235.40 146.40 0"
 /></group><fragment
  id="13874"
- BoundingBox="560.37 274.61 597.18 333.11"
+ BoundingBox="560.37 273.73 597.56 333.11"
  Z="622"
 ><n
  id="13875"
@@ -1951,10 +1955,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="561.54 298.51"
- BoundingBox="562.30 291.35 567.94 298.51"
+ p="561.55 298.83"
+ BoundingBox="561.55 290.49 568.77 298.83"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">N</s></t></n><n
+><s font="3" size="10" color="0" face="96">N</s></t></n><n
  id="13880"
  p="560.71 308.62"
  Z="628"
@@ -1967,7 +1971,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="13912"
+ id="13917"
 ><n
  id="13883"
  p="597.34 282.67"
@@ -1976,10 +1980,10 @@
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="594.29 286.25"
- BoundingBox="595.11 279.09 599.94 286.25"
+ p="594.29 286.57"
+ BoundingBox="594.29 278.23 600.40 286.57"
  LabelJustification="Left"
-><s font="57" size="10" color="0" face="96">F</s></t></n><n
+><s font="3" size="10" color="0" face="96">F</s></t></n><n
  id="13884"
  p="583.70 278.23"
  Z="614"
@@ -1991,10 +1995,10 @@
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="585.09 268.17"
- BoundingBox="585.91 261.01 590.74 268.17"
+ p="585.09 268.49"
+ BoundingBox="585.09 260.15 591.20 268.49"
  Justification="Auto"
-><s font="57" size="10" color="0" face="96">F</s></t></n><n
+><s font="3" size="10" color="0" face="96">F</s></t></n><n
  id="13886"
  p="570.05 273.79"
  Z="616"
@@ -2002,10 +2006,10 @@
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="567 277.37"
- BoundingBox="567.82 270.21 572.65 277.37"
+ p="567 277.69"
+ BoundingBox="567 269.35 573.11 277.69"
  Justification="Auto"
-><s font="57" size="10" color="0" face="96">F</s></t></n><n
+><s font="3" size="10" color="0" face="96">F</s></t></n><n
  id="13887"
  p="579.26 291.88"
  Z="617"
@@ -2032,11 +2036,11 @@
  B="13887"
  E="13884"
 /></fragment><t
- p="580.11 281.85"
- BoundingBox="580.60 274.61 597.18 284.06"
+ p="580.10 282.13"
+ BoundingBox="580.10 273.73 597.56 284.38"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="57" size="9.95" color="0" face="96">CF3</s></t></n><n
+><s font="3" size="9.95" color="0" face="96">CF3</s></t></n><n
  id="13899"
  p="565.91 333.02"
  Z="637"
@@ -2099,99 +2103,99 @@
 /></fragment><t
  id="403"
  p="113.73 207.27"
- BoundingBox="114.17 199.88 292.84 407.84"
+ BoundingBox="113.73 197.82 293.12 437.22"
  Z="366"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
  LineStarts="26 58 87 124 160 190 220 250 281 311 341 374 407 439 468 495 525 555"
-><s font="59" size="10.15" color="0" face="1">MMV1557949</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = H):</s><s font="57" size="10.15" color="11"> 2.15
-</s><s font="59" size="10.15" color="0" face="1">MMV675960 </s><s font="57" size="10.15" color="0">(R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = </s><s font="57" size="10.15" color="0" face="96">4-OCHF2</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="10">0.281
-</s><s font="59" size="10.15" color="0" face="1">MMV639565</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 4-Cl): </s><s font="57" size="10.15" color="10">0.091
-</s><s font="59" size="10.15" color="0" face="1">MMV1580433</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-NH</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0">, 4-Cl): </s><s font="57" size="10.15" color="10">0.045
-</s><s font="59" size="10.15" color="0" face="1">MMV1581334</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-NH</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0">, 4-F): </s><s font="57" size="10.15" color="10">0.813
-</s><s font="59" size="10.15" color="0" face="1">MMV1580434</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = </s><s font="57" size="10.15" color="0" face="96">3-NH2</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="4">2.15
-</s><s font="59" size="10.15" color="0" face="1">MMV1579342</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = </s><s font="57" size="10.15" color="0" face="96">4-NH2</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="4">13.0
-</s><s font="59" size="10.15" color="0" face="1">MMV1580430</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = </s><s font="57" size="10.15" color="0" face="96">3-NMe2</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="4">7.0
-</s><s font="59" size="10.15" color="0" face="1">MMV1579351 </s><s font="57" size="10.15" color="0">(R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = </s><s font="57" size="10.15" color="0" face="96">4-NMe2</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="4">5.53
-</s><s font="59" size="10.15" color="0" face="1">MMV1580437</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-</s><s font="57" size="10.15" color="0" face="96">CO2H</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="4">&gt;25
-</s><s font="59" size="10.15" color="0" face="1">MMV1580436</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 4-</s><s font="57" size="10.15" color="0" face="96">CO2H</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="4">&gt;25
-</s><s font="59" size="10.15" color="0" face="1">MMV1576794</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = </s><s font="57" size="10.15" color="0" face="96">3-C(O)NH2</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="4">&gt;10
-</s><s font="59" size="10.15" color="0" face="1">MMV1576793</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = </s><s font="57" size="10.15" color="0" face="96">4-C(O)NH2</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="4">&gt;10
-</s><s font="59" size="10.15" color="0" face="1">MMV1577569 </s><s font="57" size="10.15" color="0">(R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = </s><s font="57" size="10.15" color="0" face="96">4-SO2NH2</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="4">&gt;10
-</s><s font="59" size="10.15" color="0" face="1">OSM-W-5 </s><s font="57" size="10.15" color="0">(R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = </s><s font="57" size="10.15" color="0" face="96">4-SO2Me</s><s font="57" size="10.15" color="0">):</s><s font="57" size="10.15" color="10"> </s><s font="57" size="10.15" color="11">1.09
-</s><s font="59" size="10.15" color="0" face="1">OSM-W-9</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 4-CN): </s><s font="57" size="10.15" color="10">0.279
-</s><s font="59" size="10.15" color="0" face="1">MMV1580435</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 4-Et): </s><s font="57" size="10.15" color="10">0.144
-</s><s font="59" size="10.15" color="0" face="1">MMV1580438</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = </s><s font="57" size="10.15" color="0" face="96">4-NO2</s><s font="57" size="10.15" color="0">): </s><s font="57" size="10.15" color="10">0.980</s></t><t
+><s font="5" size="10.15" color="0" face="1">MMV1557949</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = H):</s><s font="3" size="10.15" color="11"> 2.15
+</s><s font="5" size="10.15" color="0" face="1">MMV675960 </s><s font="3" size="10.15" color="0">(R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = </s><s font="3" size="10.15" color="0" face="96">4-OCHF2</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="10">0.281
+</s><s font="5" size="10.15" color="0" face="1">MMV639565</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = 4-Cl): </s><s font="3" size="10.15" color="10">0.091
+</s><s font="5" size="10.15" color="0" face="1">MMV1580433</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = 3-NH</s><s font="3" size="10.15" color="0" face="32">2</s><s font="3" size="10.15" color="0">, 4-Cl): </s><s font="3" size="10.15" color="10">0.045
+</s><s font="5" size="10.15" color="0" face="1">MMV1581334</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = 3-NH</s><s font="3" size="10.15" color="0" face="32">2</s><s font="3" size="10.15" color="0">, 4-F): </s><s font="3" size="10.15" color="10">0.813
+</s><s font="5" size="10.15" color="0" face="1">MMV1580434</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = </s><s font="3" size="10.15" color="0" face="96">3-NH2</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="4">2.15
+</s><s font="5" size="10.15" color="0" face="1">MMV1579342</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = </s><s font="3" size="10.15" color="0" face="96">4-NH2</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="4">13.0
+</s><s font="5" size="10.15" color="0" face="1">MMV1580430</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = </s><s font="3" size="10.15" color="0" face="96">3-NMe2</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="4">7.0
+</s><s font="5" size="10.15" color="0" face="1">MMV1579351 </s><s font="3" size="10.15" color="0">(R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = </s><s font="3" size="10.15" color="0" face="96">4-NMe2</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="4">5.53
+</s><s font="5" size="10.15" color="0" face="1">MMV1580437</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = 3-</s><s font="3" size="10.15" color="0" face="96">CO2H</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="4">&gt;25
+</s><s font="5" size="10.15" color="0" face="1">MMV1580436</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = 4-</s><s font="3" size="10.15" color="0" face="96">CO2H</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="4">&gt;25
+</s><s font="5" size="10.15" color="0" face="1">MMV1576794</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = </s><s font="3" size="10.15" color="0" face="96">3-C(O)NH2</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="4">&gt;10
+</s><s font="5" size="10.15" color="0" face="1">MMV1576793</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = </s><s font="3" size="10.15" color="0" face="96">4-C(O)NH2</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="4">&gt;10
+</s><s font="5" size="10.15" color="0" face="1">MMV1577569 </s><s font="3" size="10.15" color="0">(R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = </s><s font="3" size="10.15" color="0" face="96">4-SO2NH2</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="4">&gt;10
+</s><s font="5" size="10.15" color="0" face="1">OSM-W-5 </s><s font="3" size="10.15" color="0">(R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = </s><s font="3" size="10.15" color="0" face="96">4-SO2Me</s><s font="3" size="10.15" color="0">):</s><s font="3" size="10.15" color="10"> </s><s font="3" size="10.15" color="11">1.09
+</s><s font="5" size="10.15" color="0" face="1">OSM-W-9</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = 4-CN): </s><s font="3" size="10.15" color="10">0.279
+</s><s font="5" size="10.15" color="0" face="1">MMV1580435</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = 4-Et): </s><s font="3" size="10.15" color="10">0.144
+</s><s font="5" size="10.15" color="0" face="1">MMV1580438</s><s font="3" size="10.15" color="0"> (R</s><s font="3" size="10.15" color="0" face="32">1</s><s font="3" size="10.15" color="0"> = </s><s font="3" size="10.15" color="0" face="96">4-NO2</s><s font="3" size="10.15" color="0">): </s><s font="3" size="10.15" color="10">0.980</s></t><t
  id="12809"
  p="305.37 268.34"
- BoundingBox="306.08 261.15 397.76 268.47"
+ BoundingBox="305.37 259.09 398.32 270.84"
  Z="456"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10" color="0" face="1">MMV1579341</s><s font="57" size="10" color="0">: </s><s font="57" size="10" color="10">0.107</s></t><t
+><s font="5" size="10" color="0" face="1">MMV1579341</s><s font="3" size="10" color="0">: </s><s font="3" size="10" color="10">0.107</s></t><t
  id="12861"
  p="420.41 268.34"
- BoundingBox="421.12 261.15 507.21 268.47"
+ BoundingBox="420.41 259.09 507.80 270.84"
  Z="473"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10" color="0" face="1">MMV1580432</s><s font="57" size="10" color="0">: </s><s font="57" size="10" color="4">4.90</s></t><t
+><s font="5" size="10" color="0" face="1">MMV1580432</s><s font="3" size="10" color="0">: </s><s font="3" size="10" color="4">4.90</s></t><t
  id="12895"
  p="532.44 268.34"
- BoundingBox="533.15 261.15 624.88 268.47"
+ BoundingBox="532.44 259.09 625.39 270.84"
  Z="504"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10" color="0" face="1">MMV1581331</s><s font="57" size="10" color="0">: </s><s font="57" size="10" color="10">0.375</s></t><t
+><s font="5" size="10" color="0" face="1">MMV1581331</s><s font="3" size="10" color="0">: </s><s font="3" size="10" color="10">0.375</s></t><t
  id="12921"
  p="417.61 346.84"
- BoundingBox="418.32 339.65 510 346.97"
+ BoundingBox="417.61 337.59 510.56 349.34"
  Z="530"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10" color="0" face="1">MMV1580431</s><s font="57" size="10" color="0">: </s><s font="57" size="10" color="10">0.107</s></t><t
+><s font="5" size="10" color="0" face="1">MMV1580431</s><s font="3" size="10" color="0">: </s><s font="3" size="10" color="10">0.107</s></t><t
  id="12945"
  p="305.37 346.84"
- BoundingBox="306.08 339.65 390.81 346.97"
+ BoundingBox="305.37 337.59 392.76 349.34"
  Z="547"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10" color="0" face="1">MMV1794874</s><s font="57" size="10" color="0">: </s><s font="57" size="10" color="11">1.71</s></t><t
+><s font="5" size="10" color="0" face="1">MMV1794874</s><s font="3" size="10" color="0">: </s><s font="3" size="10" color="11">1.71</s></t><t
  id="13029"
  p="305.37 427.61"
- BoundingBox="306.08 420.42 392.17 427.74"
+ BoundingBox="305.37 418.36 387.19 430.11"
  Z="560"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10" color="0" face="1">MMV1579343</s><s font="57" size="10" color="0">: </s><s font="57" size="10" color="4">20.0</s></t><t
+><s font="5" size="10" color="0" face="1">MMV669009</s><s font="3" size="10" color="0">: </s><s font="3" size="10" color="4">2.63</s></t><t
  id="13062"
  p="532.44 427.61"
- BoundingBox="533.15 420.42 619.24 427.74"
+ BoundingBox="532.44 418.36 619.83 430.11"
  Z="577"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10" color="0" face="1">MMV1579340</s><s font="57" size="10" color="0">: </s><s font="57" size="10" color="4">17.0</s></t><t
+><s font="5" size="10" color="0" face="1">MMV1579337</s><s font="3" size="10" color="0">: </s><s font="3" size="10" color="4">19.0</s></t><t
  id="13079"
  p="421.08 427.61"
- BoundingBox="421.79 420.42 506.52 427.74"
+ BoundingBox="421.08 418.36 508.47 430.11"
  Z="594"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10" color="0" face="1">MMV1579346</s><s font="57" size="10" color="0">: </s><s font="57" size="10" color="11">1.51</s></t><t
+><s font="5" size="10" color="0" face="1">MMV1579347</s><s font="3" size="10" color="0">: </s><s font="3" size="10" color="11">1.51</s></t><t
  id="13111"
  p="308 205.50"
- BoundingBox="308.73 198.34 327.59 207.62"
+ BoundingBox="308 196.25 328.04 209.70"
  Z="612"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10" color="0" face="1">R</s><s font="59" size="10" color="0" face="33">2</s><s font="59" size="10" color="0" face="1"> =</s></t><t
+><s font="5" size="10" color="0" face="1">R</s><s font="5" size="10" color="0" face="33">2</s><s font="5" size="10" color="0" face="1"> =</s></t><t
  id="13901"
  p="532.44 346.84"
- BoundingBox="533.15 339.65 619.19 346.97"
+ BoundingBox="532.44 337.59 619.83 349.34"
  Z="639"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10" color="0" face="1">MMV670936</s><s font="57" size="10" color="0">: </s><s font="57" size="10" color="10">0.392</s></t><graphic
+><s font="5" size="10" color="0" face="1">MMV670936</s><s font="3" size="10" color="0">: </s><s font="3" size="10" color="10">0.392</s></t><graphic
  id="13108"
  BoundingBox="632.87 193.54 301.95 434.74"
  Z="611"
