@@ -5,7 +5,7 @@
  Name="2021 Series 4 SAR Summary Figure 7 Short.cdxml"
  BoundingBox="33.23 64.67 466.39 330.42"
  WindowPosition="0 0"
- WindowSize="1073741824 1073741824"
+ WindowSize="0 0"
  WindowIsZoomed="yes"
  FractionalWidths="yes"
  InterpretChemically="yes"
@@ -90,7 +90,7 @@
 <font id="3" charset="iso-8859-1" name="Arial"/>
 <font id="5" charset="iso-8859-1" name="Arial"/>
 </fonttable><page
- id="13132"
+ id="13139"
  BoundingBox="0 0 540 720"
  HeaderPosition="36"
  FooterPosition="36"
@@ -126,16 +126,16 @@
 </s><s font="5" size="10" color="0" face="1">MMV670438</s><s font="3" size="10" color="0"> (R</s><s font="3" size="10" color="0" face="32">1</s><s font="3" size="10" color="0"> = R</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0"> = CH</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0">OCH</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0">): </s><s font="3" size="10" color="10">0.483
 </s><s font="5" size="10" color="0" face="1">MMV1581298</s><s font="3" size="10" color="0"> (R</s><s font="3" size="10" color="0" face="32">1</s><s font="3" size="10" color="0"> = OH, R</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0"> = CH</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0">OH): </s><s font="3" size="10" color="10">0.555</s></t></group></group><group
  id="12591"
- BoundingBox="323.56 258.70 419.91 315.07"
+ BoundingBox="311.94 274.03 408.29 330.42"
  Z="169"
 ><group
  id="12576"
- BoundingBox="323.56 258.70 419.91 315.07"
+ BoundingBox="311.94 274.03 408.29 330.42"
  Z="167"
 ><t
  id="12359"
- p="371.26 272"
- BoundingBox="330.08 263.05 412.44 309.05"
+ p="359.63 287.35"
+ BoundingBox="318.46 278.40 400.81 324.40"
  Z="163"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
@@ -147,14 +147,14 @@
 </s><s font="3" size="10" color="11">1-2.5 µM = orange</s><s font="3" size="10" color="0">
 </s><s font="3" size="10" color="4">&gt;2.5 µM = red</s></t><graphic
  id="12575"
- BoundingBox="416.84 312 324.24 259.38"
+ BoundingBox="405.21 327.35 312.61 274.71"
  Z="166"
  GraphicType="Rectangle"
  RectangleType="Shadow"
  ShadowSize="400"
- Center3D="370.54 285.69 0"
- MajorAxisEnd3D="416.84 285.69 0"
- MinorAxisEnd3D="370.54 312 0"
+ Center3D="358.91 301.03 0"
+ MajorAxisEnd3D="405.21 301.03 0"
+ MinorAxisEnd3D="358.91 327.35 0"
 /></group></group><group
  id="12939"
  BoundingBox="76.81 64.67 214.71 163.78"
@@ -286,7 +286,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="13133"
+ id="13140"
 ><n
  id="13032"
  p="186.17 81.81"
@@ -800,7 +800,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="13134"
+ id="13141"
 ><n
  id="12960"
  p="399.94 78.59"
@@ -1150,16 +1150,18 @@
 /></group><t
  id="13014"
  p="264 181.87"
- BoundingBox="264 172.62 466.39 238.37"
+ BoundingBox="264 172.62 466.39 264.67"
  Z="302"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
- WordWrapWidth="227"
- LineStarts="35 69 107 147 183"
-><s font="3" size="10" color="0" face="1">MMV688896 </s><s font="3" size="10" color="0">(R</s><s font="3" size="10" color="0" face="32">1</s><s font="3" size="10" color="0"> = H, R</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0"> = OH): </s><s font="3" size="10" color="10">0.265
+ WordWrapWidth="204.38"
+ LineStarts="36 71 105 143 183 218 254"
+><s font="3" size="10" color="0" face="1">MMV1634429 </s><s font="3" size="10" color="0">(R</s><s font="3" size="10" color="0" face="32">1</s><s font="3" size="10" color="0"> = Me, R</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0"> = H): </s><s font="3" size="10" color="10">0.627
+</s><s font="3" size="10" color="0" face="1">MMV688896 </s><s font="3" size="10" color="0">(R</s><s font="3" size="10" color="0" face="32">1</s><s font="3" size="10" color="0"> = H, R</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0"> = OH): </s><s font="3" size="10" color="10">0.265
 </s><s font="3" size="10" color="0" face="1">MMV1557940</s><s font="3" size="10" color="0"> (R</s><s font="3" size="10" color="0" face="32">1</s><s font="3" size="10" color="0"> = R</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0"> = C(O)): </s><s font="3" size="10" color="11">1.37
 </s><s font="3" size="10" color="0" face="1">MMV693155</s><s font="3" size="10" color="0"> (R</s><s font="3" size="10" color="0" face="32">1</s><s font="3" size="10" color="0"> = H, R</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0"> = CH</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0">OH): </s><s font="3" size="10" color="10">0.073
 </s><s font="3" size="10" color="0" face="1">MMV1581295</s><s font="3" size="10" color="0"> (R</s><s font="3" size="10" color="0" face="32">1</s><s font="3" size="10" color="0"> = OH, R</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0"> = CH</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0">OH): </s><s font="3" size="10" color="10">0.285
+</s><s font="3" size="10" color="0" face="1">MMV1634435</s><s font="3" size="10" color="0"> (R</s><s font="3" size="10" color="0" face="32">1</s><s font="3" size="10" color="0"> = R</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0"> = CH</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0">OH): </s><s font="3" size="10" color="4">6.13
 </s><s font="3" size="10" color="0" face="1">MMV1579336</s><s font="3" size="10" color="0"> (R</s><s font="3" size="10" color="0" face="32">1</s><s font="3" size="10" color="0"> = H, R</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0"> = CO</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0">H): </s><s font="3" size="10" color="4">3.85</s></t><annotation
  Keyword="GUID"
  Content="c0dfce65-883a-4a4f-a115-9e4cfac851c4"
