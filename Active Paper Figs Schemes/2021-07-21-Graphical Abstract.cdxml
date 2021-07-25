@@ -92,7 +92,7 @@
 <font id="3" charset="iso-8859-1" name="Arial"/>
 <font id="7" charset="Unknown" name="Symbol"/>
 </fonttable><page
- id="996"
+ id="1002"
  BoundingBox="0 0 720 540"
  HeaderPosition="36"
  FooterPosition="36"
@@ -500,19 +500,19 @@
  E="632"
  BS="N"
 /><ColoredMolecularArea
- id="997"
+ id="1003"
  bgcolor="11"
  BasisObjects="562 565 566 567 568"
 /><ColoredMolecularArea
- id="998"
+ id="1004"
  bgcolor="11"
  BasisObjects="559 560 561 562 563 564"
 /><ColoredMolecularArea
- id="999"
+ id="1005"
  bgcolor="12"
  BasisObjects="572 573 574 575 576 577"
 /><ColoredMolecularArea
- id="1000"
+ id="1006"
  bgcolor="13"
  BasisObjects="580 581 582 583 584 585"
 /></fragment><fragment
@@ -1052,7 +1052,7 @@
  LineStarts="28 47 68 98"
 ><s font="3" size="11" color="0" face="2">P. falciparum</s><s font="3" size="11" color="0"> EC</s><s font="3" size="11" color="0" face="32">50</s><s font="3" size="11" color="0"> = 290 nM
 HLM T</s><s font="3" size="11" color="0" face="32">1/2</s><s font="3" size="11" color="0"> = 116 min
-CLint = 15 mL/min/mg
+CL</s><s font="3" size="11" color="0" face="32">int</s><s font="3" size="11" color="0"> = 15 mL/min/mg
 Aq. Sol. pH 6.5 = 50-100 </s><s font="7" size="11" color="0">m</s><s font="3" size="11" color="0">g/mL</s></t><t
  id="957"
  p="227.09 163.83"

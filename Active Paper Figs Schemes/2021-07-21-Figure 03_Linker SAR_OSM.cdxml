@@ -2,8 +2,8 @@
 <!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
 <CDXML
  CreationProgram="ChemDraw 20.0.0.38"
- Name="2021-07-21-Figure 03_Linker SAR.cdxml"
- BoundingBox="36.30 30.60 436.71 354.13"
+ Name="2021-07-21-Figure 03_Linker SAR_OSM.cdxml"
+ BoundingBox="36.02 30.60 433.86 354.13"
  WindowPosition="0 0"
  WindowSize="0 0"
  FractionalWidths="yes"
@@ -84,7 +84,7 @@
 <font id="57" charset="x-mac-roman" name="Arial"/>
 <font id="59" charset="x-mac-roman" name="Arial Bold"/>
 </fonttable><page
- id="13400"
+ id="13402"
  BoundingBox="0 0 720 540"
  HeaderPosition="36"
  FooterPosition="36"
@@ -246,7 +246,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="13402"
+ id="13404"
 ><n
  id="13317"
  p="296.91 258"
@@ -386,7 +386,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="13403"
+ id="13405"
 ><n
  id="13328"
  p="272.61 257.66"
@@ -782,7 +782,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="13404"
+ id="13406"
 ><n
  id="13339"
  p="357.58 43.71"
@@ -1334,7 +1334,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="13405"
+ id="13407"
 ><n
  id="13350"
  p="137.97 43.71"
@@ -1755,7 +1755,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="13401"
+ id="13403"
 ><n
  id="12890"
  p="167.85 258"
@@ -2079,34 +2079,34 @@
 /></fragment><t
  id="160"
  p="35.58 141.11"
- BoundingBox="36.30 133.72 193.83 236.62"
+ BoundingBox="36.02 133.72 189.31 236.62"
  Z="396"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
- LineStarts="31 61 92 123 156 187 218 250 281"
-><s font="59" size="10.15" color="0" face="1">MMV1581345</s><s font="57" size="10.15" color="0"> (X = O, n = 0): </s><s font="57" size="10.15" color="4">&gt;25
-</s><s font="59" size="10.15" color="0" face="1">MMV897697</s><s font="57" size="10.15" color="0"> (X = O, n = 1): </s><s font="57" size="10.15" color="11">2.2
-</s><s font="59" size="10.15" color="0" face="1">MMV897698</s><s font="57" size="10.15" color="0"> (X = O, n = 2): </s><s font="57" size="10.15" color="10">0.36
-</s><s font="59" size="10.15" color="0" face="1">MMV1581344</s><s font="57" size="10.15" color="0"> (X = O, n = 3): </s><s font="57" size="10.15" color="11">1.3
-</s><s font="59" size="10.15" color="0" face="1">MMV669304</s><s font="57" size="10.15" color="0"> (X = CH</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0">, n = 2): </s><s font="57" size="10.15" color="10">0.28
-</s><s font="59" size="10.15" color="0" face="1">MMV1581336</s><s font="57" size="10.15" color="0"> (X = S, n = 2): </s><s font="57" size="10.15" color="11">1.1
-</s><s font="59" size="10.15" color="0" face="1">MMV693167</s><s font="57" size="10.15" color="0"> (X = SO, n = 2): </s><s font="57" size="10.15" color="4">&gt;10
-</s><s font="59" size="10.15" color="0" face="1">MMV693166</s><s font="57" size="10.15" color="0"> (X = SO</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0">, n = 2): </s><s font="57" size="10.15" color="4">&gt;10
-</s><s font="59" size="10.15" color="0" face="1">MMV1634424</s><s font="57" size="10.15" color="0"> (X = NH, n = 1): </s><s font="57" size="10.15" color="4">&gt;25</s></t><t
+ LineStarts="30 60 91 121 154 184 215 247 277"
+><s font="59" size="10.15" color="0" face="1">OSM-S-579</s><s font="57" size="10.15" color="0"> (X = O, n = 0): </s><s font="57" size="10.15" color="4">&gt;25
+</s><s font="59" size="10.15" color="0" face="1">OSM-S-368</s><s font="57" size="10.15" color="0"> (X = O, n = 1): </s><s font="57" size="10.15" color="11">2.2
+</s><s font="59" size="10.15" color="0" face="1">OSM-S-369</s><s font="57" size="10.15" color="0"> (X = O, n = 2): </s><s font="57" size="10.15" color="10">0.36
+</s><s font="59" size="10.15" color="0" face="1">OSM-S-578</s><s font="57" size="10.15" color="0"> (X = O, n = 3): </s><s font="57" size="10.15" color="11">1.3
+</s><s font="59" size="10.15" color="0" face="1">OSM-X-011 </s><s font="57" size="10.15" color="0">(X = CH</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0">, n = 2): </s><s font="57" size="10.15" color="10">0.28
+</s><s font="59" size="10.15" color="0" face="1">OSM-S-571</s><s font="57" size="10.15" color="0"> (X = S, n = 2): </s><s font="57" size="10.15" color="11">1.1
+</s><s font="59" size="10.15" color="0" face="1">OSM-S-364</s><s font="57" size="10.15" color="0"> (X = SO, n = 2): </s><s font="57" size="10.15" color="4">&gt;10
+</s><s font="59" size="10.15" color="0" face="1">OSM-S-365</s><s font="57" size="10.15" color="0"> (X = SO</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0">, n = 2): </s><s font="57" size="10.15" color="4">&gt;10
+</s><s font="59" size="10.15" color="0" face="1">OSM-S-638</s><s font="57" size="10.15" color="0"> (X = NH, n = 1): </s><s font="57" size="10.15" color="4">&gt;25</s></t><t
  id="12430"
  p="217.55 141.11"
- BoundingBox="218.27 133.72 436.71 213.29"
+ BoundingBox="217.99 133.72 432.75 213.29"
  Z="398"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
  LineStarts="43 90 135 178 223 262 304"
-><s font="57" size="10.15" color="0" face="1">MMV669542</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-Cl, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n = 0): </s><s font="57" size="10.15" color="10">0.18
-</s><s font="57" size="10.15" color="0" face="1">MMV675718 </s><s font="57" size="10.15" color="0">(R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-Cl,2-Me, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n = 0): </s><s font="57" size="10.15" color="4">4.2
-</s><s font="57" size="10.15" color="0" face="1">MMV669850</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3,4-bisF, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n=0): </s><s font="57" size="10.15" color="10">0.65
-</s><s font="57" size="10.15" color="0" face="1">MMV668958</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-Cl, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n = 1): </s><s font="57" size="10.15" color="10">0.25
-</s><s font="57" size="10.15" color="0" face="1">MMV669543</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3,4-bisF, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n=1): </s><s font="57" size="10.15" color="10">0.28
-</s><s font="57" size="10.15" color="0" face="1">MMV669027</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = H, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n = 2): </s><s font="57" size="10.15" color="4">3.2
-</s><s font="57" size="10.15" color="0" face="1">MMV669105</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-Cl, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = Me, n = 1): </s><s font="57" size="10.15" color="11">1.1</s></t><t
+><s font="59" size="10.15" color="0" face="1">OSM-S-202</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-Cl, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n = 0): </s><s font="57" size="10.15" color="10">0.18
+</s><s font="59" size="10.15" color="0" face="1">OSM-S-201 </s><s font="57" size="10.15" color="0">(R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-Cl,2-Me, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n = 0): </s><s font="57" size="10.15" color="4">4.2
+</s><s font="59" size="10.15" color="0" face="1">OSM-X-031</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3,4-bisF, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n=0): </s><s font="57" size="10.15" color="10">0.65
+</s><s font="59" size="10.15" color="0" face="1">OSM-S-176</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-Cl, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n = 1): </s><s font="57" size="10.15" color="10">0.25
+</s><s font="59" size="10.15" color="0" face="1">OSM-X-012</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3,4-bisF, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n=1): </s><s font="57" size="10.15" color="10">0.28
+</s><s font="59" size="10.15" color="0" face="1">OSM-X-051</s><s font="57" size="10.15" color="0"> (R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = H, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = H, n = 2): </s><s font="57" size="10.15" color="4">3.2
+</s><s font="59" size="10.15" color="0" face="1">OSM-X-036 </s><s font="57" size="10.15" color="0">(R</s><s font="57" size="10.15" color="0" face="32">1</s><s font="57" size="10.15" color="0"> = 3-Cl, R</s><s font="57" size="10.15" color="0" face="32">2</s><s font="57" size="10.15" color="0"> = Me, n = 1): </s><s font="57" size="10.15" color="11">1.1</s></t><t
  id="12872"
  p="81.36 354"
  BoundingBox="81.80 346.61 145.48 354.13"
@@ -2116,34 +2116,34 @@
 ><s font="59" size="10.15" color="0" face="1">OSM-W-6</s><s font="57" size="10.15" color="0">: </s><s font="57" size="10.15" color="4">4.2</s></t><t
  id="12982"
  p="229.50 354"
- BoundingBox="230.22 346.70 312.04 354.13"
+ BoundingBox="229.94 346.61 308.07 354.13"
  Z="525"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="59" size="10.15" color="0" face="1">MMV670944</s><s font="57" size="10.15" color="0">: </s><s font="57" size="10.15" color="10">0.45</s></t><bracketedgroup
- id="13406"
+><s font="59" size="10.15" color="0" face="1">OSM-S-175</s><s font="57" size="10.15" color="0">: </s><s font="57" size="10.15" color="10">0.45</s></t><bracketedgroup
+ id="13408"
  BracketedObjectIDs="127"
 ><bracketattachment
- id="13407"
+ id="13409"
  GraphicID="150"
 ><crossingbond
- id="13408"
+ id="13410"
  BondID="128"
  InnerAtomID="127"
 /></bracketattachment><bracketattachment
- id="13409"
+ id="13411"
  GraphicID="149"
 /></bracketedgroup><bracketedgroup
- id="13410"
+ id="13412"
  BracketedObjectIDs="12521"
 ><bracketattachment
- id="13411"
+ id="13413"
  GraphicID="12543"
 /><bracketattachment
- id="13412"
+ id="13414"
  GraphicID="12542"
 ><crossingbond
- id="13413"
+ id="13415"
  BondID="12524"
  InnerAtomID="12521"
 /></bracketattachment></bracketedgroup><annotation
